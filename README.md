@@ -1,4 +1,4 @@
-## NOTE IMAGE STEPS ON BOTTOM FOR EASIER WAY ##
+## NOTE IMAGE STEPS ON BOTTOM FOR EASIER WAY (also the the way to add the dns to windows is only in text for privacy reasons)
 
 DNS Domain Blocking with OpenDNS
 This guide explains how to configure OpenDNS on a network you administer and use its dashboard to block specific domains.
