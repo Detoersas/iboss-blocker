@@ -1,3 +1,5 @@
+## NOTE IMAGE STEPS ON BOTTOM FOR EASIER WAY ##
+
 DNS Domain Blocking with OpenDNS
 This guide explains how to configure OpenDNS on a network you administer and use its dashboard to block specific domains.
 
