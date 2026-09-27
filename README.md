@@ -85,24 +85,16 @@ You must wait around 1-10 minutes to kick in if it doesnt you have done somethin
 
 ## Setup Steps
 
-### Step 1
-![Step 1](./images/first-step.png)
+![Step 1](./images/first%20step.png)
 
-### Step 2
-![Step 2](./images/second-step.png)
+![Step 2](./images/second%20step.png)
 
-### Step 3
-![Step 3](./images/third-step.png)
+![Step 3](./images/third%20step.png)
 
-### Step 4
-![Step 4](./images/fourth-step.png)
+![Step 4](./images/fourth%20step.png)
 
-### Step 5
-![Step 5](./images/fifth-step.png)
+![Step 5](./images/fifth%20step.png)
 
-### Step 6
-![Step 6](./images/sixth-step.png)
+![Step 6](./images/sixth%20step.png)
 
-### Step 7
-![Step 7](./images/seventh-step.png)
-
+![Step 7](./images/seventh%20step.png)
